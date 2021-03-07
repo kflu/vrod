@@ -2,10 +2,10 @@
 " Language:         Racket
 " Maintainer:       Micah Elliott
 
-if exists("b:did_ftplugin")
+if exists("b:did_ftplugin_vrod")
   finish
 endif
-let b:did_ftplugin = 1
+let b:did_ftplugin_vrod = 1
 
 
 " Enable completions
